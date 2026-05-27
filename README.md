@@ -17,7 +17,7 @@ I don't just learn tools — I build things with them. Everything in this GitHub
 `Power BI` `Tableau` `Excel` `Matplotlib` `Seaborn`
 
 **Build & deploy**
-`Flask` `Scikit-learn` `Git` `Jupyter Notebook`
+ `Scikit-learn` `Jupyter Notebook`
 
 ---
 
@@ -28,7 +28,7 @@ I don't just learn tools — I build things with them. Everything in this GitHub
 
 Raw financial data → Python cleaning → SQL storage → Power BI dashboards → ML model to identify what actually drives business performance → deployed as a web app.
 
-`Python` `MySQL` `Power BI` `Scikit-learn` `Flask`
+`Python` `MySQL` `Power BI` `Scikit-learn` 
 
 ---
 
